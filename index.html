@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Rize OC | Confidential Detox & Recovery Assessment</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{
+      --color-primary:#003399;
+      --color-primary-dark:#151433;
+      --color-accent:#cc3366;
+      --color-dark:#1f2124;
+      --color-body:#33373d;
+      --color-muted:#69727d;
+      --color-light-bg:#f5f5f5;
+      --color-white:#FFFFFF;
+      --font-heading:"Playfair Display", serif;
+      --font-body:"Montserrat", sans-serif;
+      --font-button:"Montserrat", sans-serif;
+      --radius:8px;
+      --section-pad:80px;
+    }
+    *{box-sizing:border-box;}
+    body{margin:0;font-family:var(--font-body);color:var(--color-body);background:#fff;}
+    .container{width:min(1200px,92%);margin:0 auto;}
+    .nav{position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid #eee;}
+    .nav-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 0;}
+    .logo img{height:40px;width:auto;}
+    .btn{background:var(--color-primary);color:#fff;border:none;padding:12px 18px;border-radius:var(--radius);font-family:var(--font-button);text-transform:uppercase;letter-spacing:.06em;font-size:12px;cursor:pointer;}
+    .btn:hover{background:var(--color-primary-dark);}
+
+    .hero{min-height:90vh;display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;background:linear-gradient(135deg, rgba(0,51,153,.92), rgba(21,20,51,.92));color:#fff;padding:70px 0;}
+    .hero h1{font-family:var(--font-heading);font-size:42px;margin:0 0 12px;}
+    .hero p{font-size:17px;line-height:1.6;max-width:520px;}
+    .hero-bubble{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);border-radius:14px;padding:14px;max-width:420px;}
+
+    .quiz-card{background:#fff;color:#111;border-radius:16px;padding:22px;box-shadow:0 20px 50px rgba(0,0,0,.25);}
+    .quiz-card .eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.2em;color:var(--color-muted);}
+    .quiz-card h3{font-family:var(--font-heading);margin:10px 0 18px;font-size:22px;color:var(--color-dark);}
+    .option{border:1px solid #e5e5e5;border-radius:var(--radius);padding:14px;display:flex;align-items:center;gap:12px;margin-bottom:10px;cursor:pointer;transition:.2s;}
+    .option:hover{border-color:var(--color-primary);background:rgba(0,51,153,.05);}
+    .radio{height:18px;width:18px;border-radius:50%;border:2px solid var(--color-primary);display:inline-flex;align-items:center;justify-content:center;}
+    .radio::after{content:'';height:8px;width:8px;border-radius:50%;background:var(--color-primary);opacity:0;}
+    .option:hover .radio::after{opacity:.4;}
+    .confidential{display:flex;align-items:center;gap:8px;font-size:12px;color:#666;margin-top:10px;}
+
+    .section{padding:var(--section-pad) 0;}
+    .light{background:var(--color-light-bg);}    
+    .section h2{font-family:var(--font-heading);font-size:32px;margin:0 0 18px;}
+    .grid{display:grid;gap:20px;}
+    .grid-3{grid-template-columns:repeat(3,1fr);} 
+    .grid-2{grid-template-columns:repeat(2,1fr);} 
+    .card{background:#fff;border-radius:14px;padding:20px;box-shadow:0 10px 25px rgba(0,0,0,.08);} 
+
+    .cta-banner{background:var(--color-primary-dark);color:#fff;padding:50px 0;}
+    .cta-banner .btn{background:var(--color-accent);}
+
+    .footer{background:#111;color:#bbb;padding:40px 0;font-size:13px;}
+
+    /* Modal */
+    .modal{position:fixed;inset:0;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;z-index:50;backdrop-filter:blur(6px);} 
+    .modal.active{display:flex;}
+    .modal-card{background:#fff;border-radius:16px;width:min(580px,92%);padding:20px;}
+    .progress{height:6px;background:#eee;border-radius:999px;overflow:hidden;margin-bottom:16px;}
+    .progress-fill{height:100%;background:linear-gradient(90deg,var(--color-primary),var(--color-accent));width:0%;transition:width .3s;} 
+    .modal-question{font-family:var(--font-heading);font-size:22px;margin:6px 0 14px;color:var(--color-dark);} 
+
+    /* Loading */
+    .loading{position:fixed;inset:0;background:var(--color-primary-dark);color:#fff;display:none;align-items:center;justify-content:center;z-index:60;flex-direction:column;gap:20px;text-align:center;padding:20px;}
+    .loading.active{display:flex;}
+    .loading img{height:50px;filter:brightness(0) invert(1);} 
+    .loading-bar{width:min(420px,86%);height:8px;background:rgba(255,255,255,.2);border-radius:999px;overflow:hidden;}
+    .loading-bar span{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--color-accent),var(--color-primary));}
+
+    @media (max-width: 900px){
+      .hero{min-height:auto;padding:80px 0;}
+      .hero .container{grid-template-columns:1fr;}
+      .grid-3,.grid-2{grid-template-columns:1fr;}
+      .nav-inner{flex-direction:column;gap:10px;}
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="container nav-inner">
+      <div class="logo">
+        <img src="https://res.cloudinary.com/djox322kc/image/upload/q_auto:best,w_800/v1773205095/ydtisd4rlmqyzje9yxfn.png" alt="Rize OC">
+      </div>
+      <div style="display:flex;gap:16px;align-items:center;">
+        <a href="tel:9494612620">(949) 461-2620</a>
+        <button class="btn" onclick="scrollToQuiz()">Free Assessment</button>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero" id="top">
+    <div class="container" style="display:grid;grid-template-columns:1.1fr .9fr;gap:40px;align-items:center;">
+      <div>
+        <h1>Confidential Detox & Recovery Assessment</h1>
+        <p>Answer a few questions and receive a personalized recommendation for medical detox or structured treatment options at Rize OC.</p>
+        <div class="hero-bubble">
+          <div style="font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#ffe;">Free • Confidential • 2–3 Min</div>
+          <div>We’ll help you understand fit, timing, and next steps with discretion.</div>
+        </div>
+        <div style="margin-top:18px;">Call now: <strong>(949) 461-2620</strong></div>
+      </div>
+      <div class="quiz-card" id="quiz-card">
+        <div class="eyebrow">Confidential Assessment</div>
+        <h3>Who is this assessment for?</h3>
+        <div class="option" onclick="startQuiz(0)"><span class="radio"></span>For me</div>
+        <div class="option" onclick="startQuiz(1)"><span class="radio"></span>For a loved one</div>
+        <div class="option" onclick="startQuiz(2)"><span class="radio"></span>For a family member or friend</div>
+        <div class="confidential">?? Your answers are private and reviewed by admissions.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="trust">
+    <div class="container">
+      <h2>Medical Detox + Evidence-Based Treatment</h2>
+      <div class="grid grid-3">
+        <div class="card">24/7 medically supervised detox care.</div>
+        <div class="card">Dual-diagnosis support for mental health and substance use.</div>
+        <div class="card">Personalized plans designed around your needs.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section light">
+    <div class="container">
+      <h2>Common Concerns We Hear</h2>
+      <div class="grid grid-3">
+        <div class="card">Unsure which level of care is safest right now.</div>
+        <div class="card">Worried about detox discomfort or timing.</div>
+        <div class="card">Needing a private, compassionate admissions process.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <h2>Our Treatment Approach</h2>
+      <div class="grid grid-2">
+        <div class="card">
+          <h3 style="margin-top:0;font-family:var(--font-heading);">Comprehensive Care</h3>
+          <p>Detox, inpatient, and structured outpatient options designed to support long-term recovery.</p>
+        </div>
+        <div class="card">
+          <h3 style="margin-top:0;font-family:var(--font-heading);">Compassion + Clinical Rigor</h3>
+          <p>Evidence-based therapy and supportive care in a calm, respectful environment.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-banner">
+    <div class="container" style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:18px;">
+      <div style="font-size:22px;font-family:var(--font-heading);">Ready for clarity and next steps?</div>
+      <div style="display:flex;gap:12px;flex-wrap:wrap;">
+        <button class="btn" onclick="scrollToQuiz()">Take the Assessment</button>
+        <a class="btn" style="background:#fff;color:#111;" href="tel:9494612620">Call (949) 461-2620</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px;">
+        <div>
+          <strong>Rize OC</strong><br>
+          Orange County, CA<br>
+          (949) 461-2620
+        </div>
+        <div>Confidential admissions. Individual results may vary.</div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="modal" id="quiz-modal">
+    <div class="modal-card">
+      <div class="progress"><div class="progress-fill" id="progress-fill"></div></div>
+      <div class="modal-question" id="modal-question"></div>
+      <div class="modal-options" id="modal-options"></div>
+      <div class="confidential">?? Confidential. This assessment does not replace medical advice.</div>
+    </div>
+  </div>
+
+  <div class="loading" id="loading">
+    <img src="https://res.cloudinary.com/djox322kc/image/upload/q_auto:best,w_800/v1773205095/ydtisd4rlmqyzje9yxfn.png" alt="Rize OC" onerror="imgFallback(this,'Rize OC')">
+    <div class="loading-bar"><span id="loading-bar"></span></div>
+    <div id="loading-text">Reviewing responses…</div>
+  </div>
+
+  <script>
+    const brand = {
+      name: "Rize OC",
+      phone: "949-461-2620",
+      phoneLink: "tel:9494612620",
+      colors: {
+        primary: "#003399",
+        primaryDark: "#151433",
+        accent: "#cc3366",
+        dark: "#1f2124",
+        body: "#33373d",
+        muted: "#69727d",
+        light: "#f5f5f5",
+        white: "#FFFFFF"
+      },
+      logo: "https://res.cloudinary.com/djox322kc/image/upload/q_auto:best,w_800/v1773205095/ydtisd4rlmqyzje9yxfn.png"
+    };
+
+    const quiz = [
+      { key: "who", q: "Who is this assessment for?", options: [
+        {t:"For me", score:2},
+        {t:"For a loved one", score:2},
+        {t:"For a family member or friend", score:1}
+      ]},
+      { key: "substance", q: "What’s the primary concern?", options: [
+        {t:"Alcohol", score:2},
+        {t:"Opioids", score:3},
+        {t:"Stimulants", score:2},
+        {t:"Multiple substances", score:3}
+      ]},
+      { key: "withdrawal", q: "Are withdrawal symptoms a concern?", options: [
+        {t:"Yes, immediate concern", score:3},
+        {t:"Possibly", score:2},
+        {t:"Not sure", score:1}
+      ]},
+      { key: "duration", q: "How long has this been affecting daily life?", options: [
+        {t:"Less than 6 months", score:1},
+        {t:"6–24 months", score:2},
+        {t:"2+ years", score:3}
+      ]},
+      { key: "impact", q: "Which areas are most affected?", options: [
+        {t:"Health / mental health", score:3},
+        {t:"Work / responsibilities", score:2},
+        {t:"Relationships", score:2},
+        {t:"All of the above", score:3}
+      ]},
+      { type:"info", text:"Many people feel uncertain about detox and next steps. This assessment helps clarify the safest path." },
+      { key: "previous", q: "Have you tried treatment before?", options: [
+        {t:"No", score:1},
+        {t:"Yes, outpatient", score:2},
+        {t:"Yes, residential", score:2}
+      ]},
+      { key: "mental", q: "Are mental health concerns also present?", options: [
+        {t:"Yes", score:2},
+        {t:"Not sure", score:1},
+        {t:"No", score:0}
+      ]},
+      { key: "timeline", q: "How soon would you like to start?", options: [
+        {t:"Immediately", score:3},
+        {t:"Within weeks", score:2},
+        {t:"Within a few months", score:1}
+      ]},
+      { key: "insurance", q: "Do you plan to use insurance?", options: [
+        {t:"Yes", score:0},
+        {t:"No", score:0},
+        {t:"Not sure", score:0}
+      ]},
+      { type:"commit", text:"Are you ready to take a confidential next step?" }
+    ];
+
+    let answers = [];
+    let score = 0;
+    let stepIndex = 0;
+
+    const modal = document.getElementById('quiz-modal');
+    const modalQuestion = document.getElementById('modal-question');
+    const modalOptions = document.getElementById('modal-options');
+    const progressFill = document.getElementById('progress-fill');
+
+    function scrollToQuiz(){
+      document.getElementById('quiz-card').scrollIntoView({behavior:'smooth'});
+    }
+
+    function startQuiz(heroOptionIndex){
+      answers = [];
+      score = 0;
+      stepIndex = 0;
+      const q0 = quiz[0];
+      const opt = q0.options[heroOptionIndex];
+      answers.push({key:q0.key, question:q0.q, answer:opt.t});
+      score += opt.score;
+      stepIndex = 1;
+      modal.classList.add('active');
+      renderStep();
+    }
+
+    function renderStep(){
+      const totalSteps = quiz.length - 1;
+      const progress = Math.min(100, Math.round((stepIndex / totalSteps) * 100));
+      progressFill.style.width = progress + "%";
+      const step = quiz[stepIndex];
+      modalOptions.innerHTML = '';
+      if (!step) return;
+
+      if (step.type === 'info'){
+        modalQuestion.textContent = step.text;
+        const btn = document.createElement('button');
+        btn.className = 'btn';
+        btn.textContent = 'Continue';
+        btn.onclick = () => { stepIndex++; renderStep(); };
+        modalOptions.appendChild(btn);
+        return;
+      }
+
+      if (step.type === 'commit'){
+        modalQuestion.textContent = step.text;
+        ['Yes, I’m ready','I’m open to learning more','I’m not sure yet'].forEach((t)=>{
+          const div = document.createElement('div');
+          div.className = 'option';
+          div.innerHTML = '<span class="radio"></span>' + t;
+          div.onclick = () => {
+            answers.push({key:'commit', question:step.text, answer:t});
+            stepIndex++;
+            showLeadCapture();
+          };
+          modalOptions.appendChild(div);
+        });
+        return;
+      }
+
+      modalQuestion.textContent = step.q;
+      step.options.forEach((opt)=>{
+        const div = document.createElement('div');
+        div.className = 'option';
+        div.innerHTML = '<span class="radio"></span>' + opt.t;
+        div.onclick = () => {
+          answers.push({key:step.key, question:step.q, answer:opt.t});
+          score += opt.score;
+          stepIndex++;
+          if (stepIndex < quiz.length){
+            setTimeout(renderStep, 200);
+          } else {
+            showLeadCapture();
+          }
+        };
+        modalOptions.appendChild(div);
+      });
+    }
+
+    function showLeadCapture(){
+      modalQuestion.textContent = "Almost there — where should we send your results?";
+      modalOptions.innerHTML = `
+        <div style="display:grid;gap:10px;">
+          <input id="lead-name" placeholder="Full Name" style="padding:12px;border:1px solid #ddd;border-radius:8px;" />
+          <input id="lead-email" placeholder="Email" style="padding:12px;border:1px solid #ddd;border-radius:8px;" />
+          <input id="lead-phone" placeholder="Phone (optional)" style="padding:12px;border:1px solid #ddd;border-radius:8px;" />
+          <button class="btn" onclick="submitLead()">Get My Results</button>
+        </div>
+      `;
+    }
+
+    function submitLead(){
+      const name = document.getElementById('lead-name').value.trim();
+      const email = document.getElementById('lead-email').value.trim();
+      const phone = document.getElementById('lead-phone').value.trim();
+      if (!name || !email){
+        alert('Please enter your name and email.');
+        return;
+      }
+      const lead = {name, email, phone};
+      modal.classList.remove('active');
+      startLoading(lead);
+    }
+
+    function startLoading(lead){
+      const loading = document.getElementById('loading');
+      const bar = document.getElementById('loading-bar');
+      const text = document.getElementById('loading-text');
+      const messages = [
+        "Reviewing responses…",
+        "Analyzing your situation…",
+        "Matching to detox options…",
+        "Evaluating fit…",
+        "Preparing your recommendation…"
+      ];
+      let i = 0;
+      loading.classList.add('active');
+      const msgInterval = setInterval(()=>{ text.textContent = messages[i % messages.length]; i++; }, 1200);
+      let start = Date.now();
+      const duration = 6000;
+      const timer = setInterval(()=>{
+        const pct = Math.min(100, ((Date.now()-start)/duration)*100);
+        bar.style.width = pct + '%';
+        if (pct >= 100){
+          clearInterval(timer);
+          clearInterval(msgInterval);
+          loading.classList.remove('active');
+          showResults(lead);
+        }
+      }, 50);
+    }
+
+    function showResults(lead){
+      const tier = score >= 19 ? 'HOT' : (score >= 12 ? 'WARM' : 'COLD');
+      document.body.innerHTML = buildResultsPage(tier, answers, score, lead);
+    }
+
+    function buildResultsPage(tier, answers, score, lead){
+      const c = brand.colors;
+      const headline = tier === 'HOT' ? 'Immediate Action Recommended' : tier === 'WARM' ? 'You’re Close — A Clear Path Forward' : 'You’re Taking the Right First Step';
+      const primaryCta = tier === 'HOT' ? 'Call Now for a Confidential Intake' : tier === 'WARM' ? 'Schedule a Private Assessment Call' : 'Download the Detox Guide';
+      const secondaryCta = tier === 'HOT' ? 'Verify Insurance' : tier === 'WARM' ? 'Explore Programs' : 'Speak with Admissions';
+
+      const summaryRows = answers.slice(0,6).map(a=>`<div style="display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid ${c.light};"><div>? ${a.question}</div><div style="font-weight:600;">${a.answer}</div></div>`).join('');
+
+      return `
+      <div style="font-family:${"Montserrat"};color:${c.body};">
+        <div style="background:${c.primaryDark};color:white;padding:18px 6%;display:flex;justify-content:space-between;align-items:center;">
+          <img src="${brand.logo}" style="height:36px;" onerror="this.style.display='none'" />
+          <a style="color:white;text-decoration:none;font-weight:600;" href="${brand.phoneLink}">${brand.phone}</a>
+        </div>
+        <div style="background:${c.primary};color:white;padding:50px 6%;">
+          <div style="font-family:${"Playfair Display"};font-size:34px;">${headline}</div>
+          <div style="margin-top:10px;font-size:18px;max-width:720px;">Based on your responses, a confidential call can clarify the safest level of care and timing.</div>
+        </div>
+        <div style="margin:-30px 6% 30px;background:${c.light};border-left:6px solid ${c.accent};padding:20px;box-shadow:0 10px 30px rgba(0,0,0,.08);">
+          <div style="font-weight:700;margin-bottom:10px;">Your Profile Summary</div>
+          ${summaryRows}
+        </div>
+        <div style="padding:10px 6% 40px;display:grid;grid-template-columns:repeat(4,1fr);gap:12px;">
+          <div style="background:#fff;padding:16px;border-radius:10px;border:1px solid ${c.light};text-align:center;">24/7 Medical Detox</div>
+          <div style="background:#fff;padding:16px;border-radius:10px;border:1px solid ${c.light};text-align:center;">Dual-Diagnosis Support</div>
+          <div style="background:#fff;padding:16px;border-radius:10px;border:1px solid ${c.light};text-align:center;">Personalized Care Plans</div>
+          <div style="background:#fff;padding:16px;border-radius:10px;border:1px solid ${c.light};text-align:center;">Compassionate Admissions</div>
+        </div>
+        <div style="background:${c.light};padding:40px 6%;">
+          <div style="font-family:${"Playfair Display"};font-size:26px;margin-bottom:10px;">Why Rize OC</div>
+          <div style="display:grid;grid-template-columns:1.2fr .8fr;gap:20px;align-items:center;">
+            <div>
+              <table style="width:100%;border-collapse:collapse;">
+                <tr style="background:${c.primary};color:#fff;"><th style="padding:10px;text-align:left;">Most Programs</th><th style="padding:10px;text-align:left;">Rize OC</th></tr>
+                <tr><td style="padding:8px;color:${c.muted};">Unclear detox pathway</td><td style="padding:8px;color:${c.primary};font-weight:600;">Clear medical detox planning</td></tr>
+                <tr style="background:#f6f6f6;"><td style="padding:8px;color:${c.muted};">Limited mental health support</td><td style="padding:8px;color:${c.primary};font-weight:600;">Dual-diagnosis care</td></tr>
+                <tr><td style="padding:8px;color:${c.muted};">One-size-fits-all</td><td style="padding:8px;color:${c.primary};font-weight:600;">Personalized treatment plans</td></tr>
+              </table>
+            </div>
+            <div style="background:${c.primaryDark};color:#fff;border-radius:12px;height:220px;display:flex;align-items:center;justify-content:center;">Rize OC</div>
+          </div>
+        </div>
+        <div style="padding:50px 6%;text-align:center;">
+          <div style="font-family:${"Playfair Display"};font-size:28px;">${tier === 'HOT' ? `We have your details, ${lead.name}.` : `We’ve prepared your next steps, ${lead.name}.`}</div>
+          <div style="margin:10px auto 20px;max-width:700px;">${tier === 'COLD' ? 'You’ll receive a confidential guide and options to explore.' : 'A private call will help confirm the safest level of care and timeline.'}</div>
+          <div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;">
+            <a href="${brand.phoneLink}" style="background:${c.accent};color:#fff;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:700;">${primaryCta}</a>
+            <a href="https://rizeoc.com/" style="background:${c.primary};color:#fff;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:700;">${secondaryCta}</a>
+          </div>
+        </div>
+        <div style="background:#111;color:#bbb;padding:30px 6%;font-size:12px;">
+          Rize OC • Orange County, CA • ${brand.phone}
+        </div>
+      </div>`;
+    }
+
+    function imgFallback(img, label){
+      img.onerror = null;
+      const div = document.createElement('div');
+      div.style.background = brand.colors.primaryDark;
+      div.style.color = '#fff';
+      div.style.display = 'flex';
+      div.style.alignItems = 'center';
+      div.style.justifyContent = 'center';
+      div.style.height = '100%';
+      div.style.minHeight = '120px';
+      div.textContent = label;
+      img.replaceWith(div);
+    }
+  </script>
+</body>
+</html>
