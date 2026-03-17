@@ -1,3 +1,1 @@
-# rize-funnel
-
-GitHub Pages rebuild trigger.
+‣楲敺昭湵敮੬䜊瑩畈⁢慐敧⁳敲畢汩⁤牴杩敧⹲਍
