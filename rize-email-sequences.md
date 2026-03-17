@@ -1,9 +1,9 @@
-# Rize OC ó Email Nurture Sequences
+# Rize OC ‚Äî Email Nurture Sequences
 
 Sender recommendation: Jordan L., Admissions Coordinator
 Phone in footer: (949) 461-2620
 
-## HOT LEAD ó ìCrisis to Commitmentî
+## HOT LEAD ‚Äî ‚ÄúCrisis to Commitment‚Äù
 
 ### Email 1 (Immediate)
 Subject A: Your confidential detox assessment
@@ -13,11 +13,11 @@ Hi {{first_name}},
 
 Thanks for completing the confidential assessment. Based on your responses, a private call will help clarify the safest next step for detox or structured treatment.
 
-Call now and weíll walk you through options, timing, and what to expect.
+Call now and we‚Äôll walk you through options, timing, and what to expect.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Confidential admissions. Individual results may vary.
@@ -29,8 +29,8 @@ Subject B: A calm, clear first step
 
 Hi {{first_name}},
 
-If you call today, weíll:
-1) Listen to whatís happening right now
+If you call today, we‚Äôll:
+1) Listen to what‚Äôs happening right now
 2) Clarify detox vs. residential vs. outpatient options
 3) Outline timing and next steps
 
@@ -38,7 +38,7 @@ We keep everything confidential and respectful.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -49,11 +49,11 @@ Subject B: Practical details, explained simply
 
 Hi {{first_name}},
 
-Weíll verify insurance where possible and explain private-pay options clearly. No pressure, just clarity.
+We‚Äôll verify insurance where possible and explain private-pay options clearly. No pressure, just clarity.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -68,27 +68,27 @@ Detox can feel intimidating, but a medically supervised program is designed to k
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
 
 ### Email 5 (Day 7)
-Subject A: Weíre here when youíre ready
+Subject A: We‚Äôre here when you‚Äôre ready
 Subject B: Your private line is always open
 
 Hi {{first_name}},
 
-If youíre not ready today, thatís okay. Weíre here when you are.
+If you‚Äôre not ready today, that‚Äôs okay. We‚Äôre here when you are.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
 
-## WARM LEAD ó ìResearch to Readinessî
+## WARM LEAD ‚Äî ‚ÄúResearch to Readiness‚Äù
 
 ### Email 1 (Immediate)
 Subject A: Your results + next steps
@@ -96,12 +96,12 @@ Subject B: Your confidential guide is here
 
 Hi {{first_name}},
 
-Hereís your confidential guide and an overview of what your results mean. Rize OC provides medically supervised detox and structured treatment options tailored to the individual.
+Here‚Äôs your confidential guide and an overview of what your results mean. Rize OC provides medically supervised detox and structured treatment options tailored to the individual.
 
 Primary CTA: Schedule a Private Assessment Call
 Secondary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -112,11 +112,11 @@ Subject B: A thoughtful, medically supervised approach
 
 Hi {{first_name}},
 
-Our team focuses on safety, discretion, and individualized careóso you can move forward with clarity.
+Our team focuses on safety, discretion, and individualized care‚Äîso you can move forward with clarity.
 
 Primary CTA: Schedule a Private Assessment Call
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -127,11 +127,11 @@ Subject B: What to expect, step by step
 
 Hi {{first_name}},
 
-A typical experience includes a confidential intake, medical detox (if needed), and a structured plan for ongoing care. Weíll tailor recommendations to your situation.
+A typical experience includes a confidential intake, medical detox (if needed), and a structured plan for ongoing care. We‚Äôll tailor recommendations to your situation.
 
 Primary CTA: Schedule a Private Assessment Call
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -142,30 +142,30 @@ Subject B: Clear information, no pressure
 
 Hi {{first_name}},
 
-Weíll verify insurance and walk through options. Youíll have clear information to make the right decision.
+We‚Äôll verify insurance and walk through options. You‚Äôll have clear information to make the right decision.
 
 Primary CTA: Schedule a Private Assessment Call
 Secondary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
 
 ### Email 5 (Day 10)
 Subject A: Two simple next steps
-Subject B: Call or replyóyour choice
+Subject B: Call or reply‚Äîyour choice
 
 Hi {{first_name}},
 
-If youíre ready, you can either call (949) 461-2620 or reply with a time that works for a private call.
+If you‚Äôre ready, you can either call (949) 461-2620 or reply with a time that works for a private call.
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
 
-## COLD LEAD ó ìEducation to Engagementî
+## COLD LEAD ‚Äî ‚ÄúEducation to Engagement‚Äù
 
 ### Email 1 (Immediate)
 Subject A: Your confidential guide
@@ -173,12 +173,12 @@ Subject B: A calm first step
 
 Hi {{first_name}},
 
-Hereís your confidential guide. It outlines detox and treatment options in a clear, simple way.
+Here‚Äôs your confidential guide. It outlines detox and treatment options in a clear, simple way.
 
 Primary CTA: Download the Guide
 Secondary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -198,7 +198,7 @@ We can walk through these privately.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -209,11 +209,11 @@ Subject B: Detox vs. inpatient vs. outpatient
 
 Hi {{first_name}},
 
-Detox stabilizes the body. Residential treatment supports deeper recovery. Outpatient care provides structure while maintaining flexibility. We can help you decide whatís safest.
+Detox stabilizes the body. Residential treatment supports deeper recovery. Outpatient care provides structure while maintaining flexibility. We can help you decide what‚Äôs safest.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -224,11 +224,11 @@ Subject B: A private, supportive conversation
 
 Hi {{first_name}},
 
-If youíre seeking help for a loved one, weíre here to help you understand options and timing.
+If you‚Äôre seeking help for a loved one, we‚Äôre here to help you understand options and timing.
 
 Primary CTA: Call (949) 461-2620
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
@@ -239,13 +239,13 @@ Subject B: Private support, anytime
 
 Hi {{first_name}},
 
-When youíre ready, call (949) 461-2620 for a confidential conversation.
+When you‚Äôre ready, call (949) 461-2620 for a confidential conversation.
 
-ó Jordan L.
+‚Äî Jordan L.
 Admissions Coordinator, Rize OC
 (949) 461-2620
 Unsubscribe: [link]
 
 Cross-tier escalation:
-- Hot leads who donít convert in 7 days roll into Warm at Email 2.
-- Warm leads who donít engage in 14 days roll into Cold at Email 3.
+- Hot leads who don‚Äôt convert in 7 days roll into Warm at Email 2.
+- Warm leads who don‚Äôt engage in 14 days roll into Cold at Email 3.

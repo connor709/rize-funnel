@@ -102,8 +102,8 @@
         <h1>Confidential Detox & Recovery Assessment</h1>
         <p>Answer a few questions and receive a personalized recommendation for medical detox or structured treatment options at Rize OC.</p>
         <div class="hero-bubble">
-          <div style="font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#ffe;">Free • Confidential • 2–3 Min</div>
-          <div>We’ll help you understand fit, timing, and next steps with discretion.</div>
+          <div style="font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#ffe;">Free â€¢ Confidential â€¢ 2â€“3 Min</div>
+          <div>Weâ€™ll help you understand fit, timing, and next steps with discretion.</div>
         </div>
         <div style="margin-top:18px;">Call now: <strong>(949) 461-2620</strong></div>
       </div>
@@ -191,7 +191,7 @@
   <div class="loading" id="loading">
     <img src="https://res.cloudinary.com/djox322kc/image/upload/q_auto:best,w_800/v1773205095/ydtisd4rlmqyzje9yxfn.png" alt="Rize OC" onerror="imgFallback(this,'Rize OC')">
     <div class="loading-bar"><span id="loading-bar"></span></div>
-    <div id="loading-text">Reviewing responses…</div>
+    <div id="loading-text">Reviewing responsesâ€¦</div>
   </div>
 
   <script>
@@ -218,7 +218,7 @@
         {t:"For a loved one", score:2},
         {t:"For a family member or friend", score:1}
       ]},
-      { key: "substance", q: "What’s the primary concern?", options: [
+      { key: "substance", q: "Whatâ€™s the primary concern?", options: [
         {t:"Alcohol", score:2},
         {t:"Opioids", score:3},
         {t:"Stimulants", score:2},
@@ -231,7 +231,7 @@
       ]},
       { key: "duration", q: "How long has this been affecting daily life?", options: [
         {t:"Less than 6 months", score:1},
-        {t:"6–24 months", score:2},
+        {t:"6â€“24 months", score:2},
         {t:"2+ years", score:3}
       ]},
       { key: "impact", q: "Which areas are most affected?", options: [
@@ -310,7 +310,7 @@
 
       if (step.type === 'commit'){
         modalQuestion.textContent = step.text;
-        ['Yes, I’m ready','I’m open to learning more','I’m not sure yet'].forEach((t)=>{
+        ['Yes, Iâ€™m ready','Iâ€™m open to learning more','Iâ€™m not sure yet'].forEach((t)=>{
           const div = document.createElement('div');
           div.className = 'option';
           div.innerHTML = '<span class="radio"></span>' + t;
@@ -344,7 +344,7 @@
     }
 
     function showLeadCapture(){
-      modalQuestion.textContent = "Almost there — where should we send your results?";
+      modalQuestion.textContent = "Almost there â€” where should we send your results?";
       modalOptions.innerHTML = `
         <div style="display:grid;gap:10px;">
           <input id="lead-name" placeholder="Full Name" style="padding:12px;border:1px solid #ddd;border-radius:8px;" />
@@ -373,11 +373,11 @@
       const bar = document.getElementById('loading-bar');
       const text = document.getElementById('loading-text');
       const messages = [
-        "Reviewing responses…",
-        "Analyzing your situation…",
-        "Matching to detox options…",
-        "Evaluating fit…",
-        "Preparing your recommendation…"
+        "Reviewing responsesâ€¦",
+        "Analyzing your situationâ€¦",
+        "Matching to detox optionsâ€¦",
+        "Evaluating fitâ€¦",
+        "Preparing your recommendationâ€¦"
       ];
       let i = 0;
       loading.classList.add('active');
@@ -403,7 +403,7 @@
 
     function buildResultsPage(tier, answers, score, lead){
       const c = brand.colors;
-      const headline = tier === 'HOT' ? 'Immediate Action Recommended' : tier === 'WARM' ? 'You’re Close — A Clear Path Forward' : 'You’re Taking the Right First Step';
+      const headline = tier === 'HOT' ? 'Immediate Action Recommended' : tier === 'WARM' ? 'Youâ€™re Close â€” A Clear Path Forward' : 'Youâ€™re Taking the Right First Step';
       const primaryCta = tier === 'HOT' ? 'Call Now for a Confidential Intake' : tier === 'WARM' ? 'Schedule a Private Assessment Call' : 'Download the Detox Guide';
       const secondaryCta = tier === 'HOT' ? 'Verify Insurance' : tier === 'WARM' ? 'Explore Programs' : 'Speak with Admissions';
 
@@ -444,15 +444,15 @@
           </div>
         </div>
         <div style="padding:50px 6%;text-align:center;">
-          <div style="font-family:${"Playfair Display"};font-size:28px;">${tier === 'HOT' ? `We have your details, ${lead.name}.` : `We’ve prepared your next steps, ${lead.name}.`}</div>
-          <div style="margin:10px auto 20px;max-width:700px;">${tier === 'COLD' ? 'You’ll receive a confidential guide and options to explore.' : 'A private call will help confirm the safest level of care and timeline.'}</div>
+          <div style="font-family:${"Playfair Display"};font-size:28px;">${tier === 'HOT' ? `We have your details, ${lead.name}.` : `Weâ€™ve prepared your next steps, ${lead.name}.`}</div>
+          <div style="margin:10px auto 20px;max-width:700px;">${tier === 'COLD' ? 'Youâ€™ll receive a confidential guide and options to explore.' : 'A private call will help confirm the safest level of care and timeline.'}</div>
           <div style="display:flex;justify-content:center;gap:12px;flex-wrap:wrap;">
             <a href="${brand.phoneLink}" style="background:${c.accent};color:#fff;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:700;">${primaryCta}</a>
             <a href="https://rizeoc.com/" style="background:${c.primary};color:#fff;padding:14px 22px;border-radius:10px;text-decoration:none;font-weight:700;">${secondaryCta}</a>
           </div>
         </div>
         <div style="background:#111;color:#bbb;padding:30px 6%;font-size:12px;">
-          Rize OC • Orange County, CA • ${brand.phone}
+          Rize OC â€¢ Orange County, CA â€¢ ${brand.phone}
         </div>
       </div>`;
     }

@@ -1,96 +1,96 @@
-# Rize OC — Ad Concepts (10)
+# Rize OC â€” Ad Concepts (10)
 
-Healthcare compliance: avoid personal attributes, diagnosis claims, guarantees, or shame. No PHI. Include “individual results may vary” when testimonials implied.
+Healthcare compliance: avoid personal attributes, diagnosis claims, guarantees, or shame. No PHI. Include â€œindividual results may varyâ€ when testimonials implied.
 
 ## Quiz Funnel Ads (5)
 
-1) **“Confidential Detox Assessment”**
+1) **â€œConfidential Detox Assessmentâ€**
 - Visual: Navy gradient background, Rize logo top-left, clean white text.
-- Primary Text: “A private way to understand detox and treatment options in Orange County.”
-- Image Text: “CONFIDENTIAL ASSESSMENT” / “2–3 MINUTES”
-- Headline: “Start a Private Assessment”
-- Description: “Clear next steps.”
-- CTA: “Learn More”
+- Primary Text: â€œA private way to understand detox and treatment options in Orange County.â€
+- Image Text: â€œCONFIDENTIAL ASSESSMENTâ€ / â€œ2â€“3 MINUTESâ€
+- Headline: â€œStart a Private Assessmentâ€
+- Description: â€œClear next steps.â€
+- CTA: â€œLearn Moreâ€
 - Compliance: No personal attributes.
 
-2) **“Medical Detox Clarity”**
+2) **â€œMedical Detox Clarityâ€**
 - Visual: Abstract clinical graphic, navy + rose accent bar.
-- Primary Text: “Unsure about detox timing? A short assessment provides clarity.”
-- Image Text: “MEDICAL DETOX CLARITY”
-- Headline: “Confidential Assessment”
-- Description: “No pressure.”
-- CTA: “Get Started”
+- Primary Text: â€œUnsure about detox timing? A short assessment provides clarity.â€
+- Image Text: â€œMEDICAL DETOX CLARITYâ€
+- Headline: â€œConfidential Assessmentâ€
+- Description: â€œNo pressure.â€
+- CTA: â€œGet Startedâ€
 - Compliance: Avoids sensitive targeting.
 
-3) **“For Families Seeking Options”**
+3) **â€œFor Families Seeking Optionsâ€**
 - Visual: Soft, neutral background with text card.
-- Primary Text: “For families seeking a calm, private path forward.”
-- Image Text: “A CALM FIRST STEP”
-- Headline: “Take the Assessment”
-- Description: “Confidential.”
-- CTA: “Learn More”
+- Primary Text: â€œFor families seeking a calm, private path forward.â€
+- Image Text: â€œA CALM FIRST STEPâ€
+- Headline: â€œTake the Assessmentâ€
+- Description: â€œConfidential.â€
+- CTA: â€œLearn Moreâ€
 - Compliance: No diagnosis language.
 
-4) **“Dual-Diagnosis Support”**
-- Visual: Split design with “Mental Health + Recovery” text.
-- Primary Text: “Evidence-based care that supports both mental health and recovery.”
-- Image Text: “DUAL-DIAGNOSIS SUPPORT”
-- Headline: “Explore Options”
-- Description: “Private assessment available.”
-- CTA: “Learn More”
+4) **â€œDual-Diagnosis Supportâ€**
+- Visual: Split design with â€œMental Health + Recoveryâ€ text.
+- Primary Text: â€œEvidence-based care that supports both mental health and recovery.â€
+- Image Text: â€œDUAL-DIAGNOSIS SUPPORTâ€
+- Headline: â€œExplore Optionsâ€
+- Description: â€œPrivate assessment available.â€
+- CTA: â€œLearn Moreâ€
 - Compliance: No guarantees.
 
-5) **“Private Admissions”**
+5) **â€œPrivate Admissionsâ€**
 - Visual: Minimalist navy background, lock icon, phone CTA.
-- Primary Text: “Admissions handled discreetly, with clear next steps.”
-- Image Text: “PRIVATE ADMISSIONS”
-- Headline: “Call for a Confidential Intake”
-- Description: “We’re here to help.”
-- CTA: “Call Now”
+- Primary Text: â€œAdmissions handled discreetly, with clear next steps.â€
+- Image Text: â€œPRIVATE ADMISSIONSâ€
+- Headline: â€œCall for a Confidential Intakeâ€
+- Description: â€œWeâ€™re here to help.â€
+- CTA: â€œCall Nowâ€
 - Compliance: No personal attributes.
 
 ## General Service/Brand Ads (5)
 
-6) **“Rize OC — Medical Detox”**
+6) **â€œRize OC â€” Medical Detoxâ€**
 - Visual: Navy + white brand card, logo centered.
-- Primary Text: “Medically supervised detox with individualized care.”
-- Image Text: “RIZE OC”
-- Headline: “Learn About Detox”
-- Description: “Orange County.”
-- CTA: “Learn More”
+- Primary Text: â€œMedically supervised detox with individualized care.â€
+- Image Text: â€œRIZE OCâ€
+- Headline: â€œLearn About Detoxâ€
+- Description: â€œOrange County.â€
+- CTA: â€œLearn Moreâ€
 - Compliance: No cure claims.
 
-7) **“Personalized Care Plans”**
+7) **â€œPersonalized Care Plansâ€**
 - Visual: Structured grid layout with key icons.
-- Primary Text: “Treatment plans tailored to each person’s needs.”
-- Image Text: “PERSONALIZED CARE”
-- Headline: “Explore Programs”
-- Description: “Confidential.”
-- CTA: “Learn More”
+- Primary Text: â€œTreatment plans tailored to each personâ€™s needs.â€
+- Image Text: â€œPERSONALIZED CAREâ€
+- Headline: â€œExplore Programsâ€
+- Description: â€œConfidential.â€
+- CTA: â€œLearn Moreâ€
 
-8) **“24/7 Medical Support”**
-- Visual: Bold navy bar with “24/7” typography.
-- Primary Text: “Around-the-clock clinical support during detox.”
-- Image Text: “24/7 MEDICAL SUPPORT”
-- Headline: “See How We Help”
-- Description: “Private admissions.”
-- CTA: “Learn More”
+8) **â€œ24/7 Medical Supportâ€**
+- Visual: Bold navy bar with â€œ24/7â€ typography.
+- Primary Text: â€œAround-the-clock clinical support during detox.â€
+- Image Text: â€œ24/7 MEDICAL SUPPORTâ€
+- Headline: â€œSee How We Helpâ€
+- Description: â€œPrivate admissions.â€
+- CTA: â€œLearn Moreâ€
 
-9) **“After Detox: Next Steps”**
+9) **â€œAfter Detox: Next Stepsâ€**
 - Visual: Three-step timeline graphic.
-- Primary Text: “Detox is step one. We help plan what comes next.”
-- Image Text: “DETOX ? TREATMENT ? SUPPORT”
-- Headline: “See Treatment Options”
-- Description: “Confidential.”
-- CTA: “Learn More”
+- Primary Text: â€œDetox is step one. We help plan what comes next.â€
+- Image Text: â€œDETOX ? TREATMENT ? SUPPORTâ€
+- Headline: â€œSee Treatment Optionsâ€
+- Description: â€œConfidential.â€
+- CTA: â€œLearn Moreâ€
 
-10) **“Private Family Guidance”**
+10) **â€œPrivate Family Guidanceâ€**
 - Visual: Clean text-only ad with navy background.
-- Primary Text: “Guidance for families exploring treatment options.”
-- Image Text: “PRIVATE FAMILY GUIDANCE”
-- Headline: “Speak with Admissions”
-- Description: “No pressure.”
-- CTA: “Contact Us”
+- Primary Text: â€œGuidance for families exploring treatment options.â€
+- Image Text: â€œPRIVATE FAMILY GUIDANCEâ€
+- Headline: â€œSpeak with Admissionsâ€
+- Description: â€œNo pressure.â€
+- CTA: â€œContact Usâ€
 
 ### Format Specs
 - 1080x1080, 1080x1920, 1200x628
@@ -100,12 +100,12 @@ Healthcare compliance: avoid personal attributes, diagnosis claims, guarantees, 
 - Prohibited: health condition targeting, recovery group membership, or inferred sensitive traits.
 
 ### Retargeting Matrix
-- Quiz visitors (no lead): show Quiz Ads 1–3
+- Quiz visitors (no lead): show Quiz Ads 1â€“3
 - Lead submitted, no call: show Ads 2, 5
-- Warm engagement: show Ads 6–9
+- Warm engagement: show Ads 6â€“9
 
 ### Pre-launch Compliance Checklist
-- No “you + condition” language
+- No â€œyou + conditionâ€ language
 - No implied diagnosis
 - No guarantees or cure language
 - Privacy/consent on landing page
