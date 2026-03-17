@@ -38,10 +38,14 @@
     .btn.secondary{background:transparent;border-color:rgba(255,255,255,.35);color:#fff;}
     .btn.secondary:hover{border-color:rgba(255,255,255,.55);background:rgba(255,255,255,.10);}
 
-    .hero{min-height:92vh;display:grid;align-items:center;background:
+    .hero{min-height:92vh;display:grid;align-items:center;position:relative;isolation:isolate;background:
+      radial-gradient(900px 540px at 12% 10%, rgba(204,51,102,.30), rgba(204,51,102,0) 60%),
       linear-gradient(135deg, rgba(0,51,153,.86), rgba(21,20,51,.72)),
       url('https://rizeoc.com/wp-content/uploads/2026/02/Untitled-design-2026-02-25T161546.449.png') center/cover no-repeat;
       color:#fff;padding:78px 0;}
+    .hero::before{content:"";position:absolute;inset:0;pointer-events:none;z-index:0;opacity:.28;mix-blend-mode:overlay;
+      background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A//www.w3.org/2000/svg%27%20width%3D%27160%27%20height%3D%27160%27%3E%3Cfilter%20id%3D%27n%27%3E%3CfeTurbulence%20type%3D%27fractalNoise%27%20baseFrequency%3D%27.85%27%20numOctaves%3D%272%27%20stitchTiles%3D%27stitch%27/%3E%3C/filter%3E%3Crect%20width%3D%27160%27%20height%3D%27160%27%20filter%3D%27url(%2523n)%27%20opacity%3D%27.22%27/%3E%3C/svg%3E");
+      background-size:220px 220px;}
     .hero .container{display:grid;grid-template-columns:1.15fr .85fr;gap:44px;align-items:center;}
     .hero h1{font-family:var(--font-heading);font-size:clamp(32px,3.8vw,46px);line-height:1.05;margin:0 0 12px;letter-spacing:-.02em;max-width:22ch;text-wrap:balance;}
     .hero p{font-size:16px;line-height:1.75;max-width:60ch;margin:0 0 18px;color:rgba(255,255,255,.90);}
@@ -49,6 +53,14 @@
     .hero-bubble .eyebrow{font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:rgba(255,255,255,.85);font-weight:700;}
     .hero-bubble .sub{margin-top:8px;color:rgba(255,255,255,.85);font-size:14px;line-height:1.6;}
     .hero-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:18px;}
+
+    .hero-rail{display:grid;gap:14px;align-content:start;position:relative;z-index:1;}
+    .hero-media{position:relative;border-radius:18px;overflow:hidden;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.22);box-shadow:0 26px 70px rgba(0,0,0,.22);aspect-ratio:16/10;}
+    .hero-media img{width:100%;height:100%;object-fit:cover;display:block;transform:scale(1.02);}
+    .hero-media::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg, rgba(21,20,51,0) 40%, rgba(21,20,51,.78) 100%);}
+    .hero-media__cap{position:absolute;left:14px;right:14px;bottom:12px;z-index:1;display:flex;justify-content:space-between;gap:10px;align-items:flex-end;}
+    .hero-media__cap .kicker{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:rgba(255,255,255,.88);font-weight:700;}
+    .hero-media__cap .mini{font-size:12px;color:rgba(255,255,255,.84);line-height:1.3;text-align:right;}
 
     .quiz-card{background:#fff;color:#111;border-radius:18px;padding:22px;box-shadow:0 26px 70px rgba(0,0,0,.30);}
     .quiz-card .eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.2em;color:var(--color-muted);}
@@ -101,6 +113,7 @@
     @media (max-width: 900px){
       .hero{min-height:auto;padding:80px 0;}
       .hero .container{grid-template-columns:1fr;}
+      .hero-media{aspect-ratio:16/9;}
       .split{grid-template-columns:1fr;}
       .grid-3,.grid-2{grid-template-columns:1fr;}
       .nav-inner{flex-direction:column;gap:10px;}
@@ -135,13 +148,22 @@
           <a class="btn secondary" href="tel:9494612620">Call (949) 461-2620</a>
         </div>
       </div>
-      <div class="quiz-card" id="quiz-card">
-        <div class="eyebrow">Confidential Assessment</div>
-        <h3>Who is this assessment for?</h3>
-        <div class="option" onclick="startQuiz(0)"><span class="radio"></span>For me</div>
-        <div class="option" onclick="startQuiz(1)"><span class="radio"></span>For a loved one</div>
-        <div class="option" onclick="startQuiz(2)"><span class="radio"></span>For a family member or friend</div>
-        <div class="confidential">Confidential. Reviewed by admissions.</div>
+      <div class="hero-rail">
+        <div class="hero-media" aria-hidden="true">
+          <img src="https://rizeoc.com/wp-content/uploads/2026/02/Untitled-design-2026-02-25T171901.036.png" alt="" loading="lazy" decoding="async" onerror="this.closest('.hero-media').style.display='none'">
+          <div class="hero-media__cap">
+            <div class="kicker">Rize OC</div>
+            <div class="mini">Orange County admissions<br>949-461-2620</div>
+          </div>
+        </div>
+        <div class="quiz-card" id="quiz-card">
+          <div class="eyebrow">Confidential Assessment</div>
+          <h3>Who is this assessment for?</h3>
+          <div class="option" onclick="startQuiz(0)"><span class="radio"></span>For me</div>
+          <div class="option" onclick="startQuiz(1)"><span class="radio"></span>For a loved one</div>
+          <div class="option" onclick="startQuiz(2)"><span class="radio"></span>For a family member or friend</div>
+          <div class="confidential">Confidential. Reviewed by admissions.</div>
+        </div>
       </div>
     </div>
   </section>
