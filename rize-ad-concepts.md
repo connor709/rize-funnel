@@ -1,1 +1,105 @@
-‣楒敺传⁃胢ₔ摁䌠湯散瑰⁳ㄨ⤰ਊ效污桴慣敲挠浯汰慩据㩥愠潶摩瀠牥潳慮⁬瑡牴扩瑵獥‬楤条潮楳⁳汣楡獭‬畧牡湡整獥‬牯猠慨敭‮潎倠䥈‮湉汣摵⁥胢榜摮癩摩慵⁬敲畳瑬⁳慭⁹慶祲胢₝桷湥琠獥楴潭楮污⁳浩汰敩⹤ਊ⌣儠極⁺畆湮汥䄠獤⠠⤵ਊ⤱⨠鲀潃普摩湥楴污䐠瑥硯䄠獳獥浳湥鶀⨪ⴊ嘠獩慵㩬丠癡⁹牧摡敩瑮戠捡杫潲湵Ɽ删穩⁥潬潧琠灯氭晥ⱴ挠敬湡眠楨整琠硥⹴ⴊ倠楲慭祲吠硥㩴鲀⁁牰癩瑡⁥慷⁹潴甠摮牥瑳湡⁤敤潴⁸湡⁤牴慥浴湥⁴灯楴湯⁳湩传慲杮⁥潃湵祴鶀ⴊ䤠慭敧吠硥㩴鲀佃䙎䑉久䥔䱁䄠卓卅䵓久鶀⼠鲀鎀″䥍啎䕔鶀ⴊ䠠慥汤湩㩥鲀瑓牡⁴⁡牐癩瑡⁥獁敳獳敭瑮胢ઝ‭敄捳楲瑰潩㩮鲀汃慥⁲敮瑸猠整獰鶀ⴊ䌠䅔›胢䲜慥湲䴠牯鶀ⴊ䌠浯汰慩据㩥丠⁯数獲湯污愠瑴楲畢整⹳ਊ⤲⨠鲀敍楤慣⁬敄潴⁸汃牡瑩鶀⨪ⴊ嘠獩慵㩬䄠獢牴捡⁴汣湩捩污朠慲桰捩‬慮祶⬠爠獯⁥捡散瑮戠牡ਮ‭牐浩牡⁹敔瑸›胢喜獮牵⁥扡畯⁴敤潴⁸楴業杮‿⁁桳牯⁴獡敳獳敭瑮瀠潲楶敤⁳汣牡瑩⹹胢ઝ‭浉条⁥敔瑸›胢䶜䑅䍉䱁䐠呅塏䌠䅌䥒奔胢ઝ‭效摡楬敮›胢䎜湯楦敤瑮慩⁬獁敳獳敭瑮胢ઝ‭敄捳楲瑰潩㩮鲀潎瀠敲獳牵⹥胢ઝ‭呃㩁鲀敇⁴瑓牡整鶀ⴊ䌠浯汰慩据㩥䄠潶摩⁳敳獮瑩癩⁥慴杲瑥湩⹧ਊ⤳⨠鲀潆⁲慆業楬獥匠敥楫杮传瑰潩獮胢⪝ਪ‭楖畳污›潓瑦‬敮瑵慲⁬慢正牧畯摮眠瑩⁨整瑸挠牡⹤ⴊ倠楲慭祲吠硥㩴鲀潆⁲慦業楬獥猠敥楫杮愠挠污Ɑ瀠楲慶整瀠瑡⁨潦睲牡⹤胢ઝ‭浉条⁥敔瑸›胢䆜䌠䱁⁍䥆卒⁔呓偅胢ઝ‭效摡楬敮›胢咜歡⁥桴⁥獁敳獳敭瑮胢ઝ‭敄捳楲瑰潩㩮鲀潃普摩湥楴污鶀ⴊ䌠䅔›胢䲜慥湲䴠牯鶀ⴊ䌠浯汰慩据㩥丠⁯楤条潮楳⁳慬杮慵敧ਮ㐊 ⨪胢䒜慵⵬楄条潮楳⁳畓灰牯鶀⨪ⴊ嘠獩慵㩬匠汰瑩搠獥杩⁮楷桴鲀敍瑮污䠠慥瑬⁨‫敒潣敶祲胢₝整瑸ਮ‭牐浩牡⁹敔瑸›胢䖜楶敤据ⵥ慢敳⁤慣敲琠慨⁴畳灰牯獴戠瑯⁨敭瑮污栠慥瑬⁨湡⁤敲潣敶祲鶀ⴊ䤠慭敧吠硥㩴鲀啄䱁䐭䅉乇协卉匠偕佐呒胢ઝ‭效摡楬敮›胢䖜灸潬敲传瑰潩獮胢ઝ‭敄捳楲瑰潩㩮鲀牐癩瑡⁥獡敳獳敭瑮愠慶汩扡敬鶀ⴊ䌠䅔›胢䲜慥湲䴠牯鶀ⴊ䌠浯汰慩据㩥丠⁯畧牡湡整獥ਮ㔊 ⨪胢傜楲慶整䄠浤獩楳湯鶀⨪ⴊ嘠獩慵㩬䴠湩浩污獩⁴慮祶戠捡杫潲湵Ɽ氠捯⁫捩湯‬桰湯⁥呃⹁ⴊ倠楲慭祲吠硥㩴鲀摁業獳潩獮栠湡汤摥搠獩牣敥汴ⱹ眠瑩⁨汣慥⁲敮瑸猠整獰鶀ⴊ䤠慭敧吠硥㩴鲀剐噉呁⁅䑁䥍卓佉华胢ઝ‭效摡楬敮›胢䎜污⁬潦⁲⁡潃普摩湥楴污䤠瑮歡鶀ⴊ䐠獥牣灩楴湯›胢垜馀敲栠牥⁥潴栠汥⹰胢ઝ‭呃㩁鲀慃汬丠睯胢ઝ‭潃灭楬湡散›潎瀠牥潳慮⁬瑡牴扩瑵獥ਮ⌊‣敇敮慲⁬敓癲捩⽥牂湡⁤摁⁳㔨਩㘊 ⨪胢劜穩⁥䍏钀䴠摥捩污䐠瑥硯胢⪝ਪ‭楖畳污›慎祶⬠眠楨整戠慲摮挠牡Ɽ氠杯⁯散瑮牥摥ਮ‭牐浩牡⁹敔瑸›胢䶜摥捩污祬猠灵牥楶敳⁤敤潴⁸楷桴椠摮癩摩慵楬敺⁤慣敲鶀ⴊ䤠慭敧吠硥㩴鲀䥒䕚传鶀ⴊ䠠慥汤湩㩥鲀敌牡⁮扁畯⁴敄潴鶀ⴊ䐠獥牣灩楴湯›胢侜慲杮⁥潃湵祴鶀ⴊ䌠䅔›胢䲜慥湲䴠牯鶀ⴊ䌠浯汰慩据㩥丠⁯畣敲挠慬浩⹳ਊ⤷⨠鲀敐獲湯污穩摥䌠牡⁥汐湡鶀⨪ⴊ嘠獩慵㩬匠牴捵畴敲⁤牧摩氠祡畯⁴楷桴欠祥椠潣獮ਮ‭牐浩牡⁹敔瑸›胢咜敲瑡敭瑮瀠慬獮琠楡潬敲⁤潴攠捡⁨数獲湯胢玙渠敥獤鶀ⴊ䤠慭敧吠硥㩴鲀䕐卒乏䱁婉䑅䌠剁鶀ⴊ䠠慥汤湩㩥鲀硅汰牯⁥牐杯慲獭胢ઝ‭敄捳楲瑰潩㩮鲀潃普摩湥楴污鶀ⴊ䌠䅔›胢䲜慥湲䴠牯鶀ਊ⤸⨠鲀㐲㜯䴠摥捩污匠灵潰瑲胢⪝ਪ‭楖畳污›潂摬渠癡⁹慢⁲楷桴鲀㐲㜯胢₝祴潰牧灡票ਮ‭牐浩牡⁹敔瑸›胢䆜潲湵ⵤ桴ⵥ汣捯⁫汣湩捩污猠灵潰瑲搠牵湩⁧敤潴⹸胢ઝ‭浉条⁥敔瑸›胢㊜⼴‷䕍䥄䅃⁌啓偐剏鶀ⴊ䠠慥汤湩㩥鲀敓⁥潈⁷敗䠠汥鶀ⴊ䐠獥牣灩楴湯›胢傜楲慶整愠浤獩楳湯⹳胢ઝ‭呃㩁鲀敌牡⁮潍敲胢ઝ㤊 ⨪胢䆜瑦牥䐠瑥硯›敎瑸匠整獰胢⪝ਪ‭楖畳污›桔敲ⵥ瑳灥琠浩汥湩⁥牧灡楨⹣ⴊ倠楲慭祲吠硥㩴鲀敄潴⁸獩猠整⁰湯⹥圠⁥敨灬瀠慬⁮桷瑡挠浯獥渠硥⹴胢ઝ‭浉条⁥敔瑸›胢䒜呅塏㼠吠䕒呁䕍呎㼠匠偕佐呒胢ઝ‭效摡楬敮›胢厜敥吠敲瑡敭瑮传瑰潩獮胢ઝ‭敄捳楲瑰潩㩮鲀潃普摩湥楴污鶀ⴊ䌠䅔›胢䲜慥湲䴠牯鶀ਊ〱 ⨪胢傜楲慶整䘠浡汩⁹畇摩湡散胢⪝ਪ‭楖畳污›汃慥⁮整瑸漭汮⁹摡眠瑩⁨慮祶戠捡杫潲湵⹤ⴊ倠楲慭祲吠硥㩴鲀畇摩湡散映牯映浡汩敩⁳硥汰牯湩⁧牴慥浴湥⁴灯楴湯⹳胢ઝ‭浉条⁥敔瑸›胢傜䥒䅖䕔䘠䵁䱉⁙啇䑉乁䕃胢ઝ‭效摡楬敮›胢厜数歡眠瑩⁨摁業獳潩獮胢ઝ‭敄捳楲瑰潩㩮鲀潎瀠敲獳牵⹥胢ઝ‭呃㩁鲀潃瑮捡⁴獕胢ઝ⌊⌣䘠牯慭⁴灓捥ੳ‭〱〸ㅸ㠰ⰰㄠ㠰砰㤱〲‬㈱〰㙸㠲ਊ⌣‣慔杲瑥湩⁧畇摩湡散ⴊ䄠汬睯摥›牢慯⁤敷汬敮獳栯慥瑬⁨湩整敲瑳ⱳ愠敧㈠⬵‬敧⁯牏湡敧䌠畯瑮⹹ⴊ倠潲楨楢整㩤栠慥瑬⁨潣摮瑩潩⁮慴杲瑥湩Ⱨ爠捥癯牥⁹牧畯⁰敭扭牥桳灩‬牯椠普牥敲⁤敳獮瑩癩⁥牴楡獴ਮ⌊⌣删瑥牡敧楴杮䴠瑡楲੸‭畑穩瘠獩瑩牯⁳渨⁯敬摡㨩猠潨⁷畑穩䄠獤ㄠ胢㎓ⴊ䰠慥⁤畳浢瑩整Ɽ渠⁯慣汬›桳睯䄠獤㈠‬ਵ‭慗浲攠杮条浥湥㩴猠潨⁷摁⁳鎀ਹ⌊⌣倠敲氭畡据⁨潃灭楬湡散䌠敨正楬瑳ⴊ丠⁯胢禜畯⬠挠湯楤楴湯胢₝慬杮慵敧ⴊ丠⁯浩汰敩⁤楤条潮楳ੳ‭潎朠慵慲瑮敥⁳牯挠牵⁥慬杮慵敧ⴊ倠楲慶祣振湯敳瑮漠⁮慬摮湩⁧慰敧਍
+﻿# Rize OC - Ad Concepts (10)
+
+Healthcare compliance: avoid personal attributes, diagnosis claims, guarantees, or shame. No PHI. Include "individual results may vary" when testimonials are implied.
+
+## Quiz Funnel Ads (5)
+
+1) "Confidential Detox Assessment"
+- Visual: Navy gradient background, Rize logo top left, clean white text.
+- Primary Text: "A private way to understand detox and treatment options in Orange County."
+- Image Text: "CONFIDENTIAL ASSESSMENT" / "2-3 MINUTES"
+- Headline: "Start a Private Assessment"
+- Description: "Clear next steps."
+- CTA: "Learn More"
+
+2) "Medical Detox Clarity"
+- Visual: Abstract clinical graphic, navy plus rose accent bar.
+- Primary Text: "Unsure about detox timing? A short assessment provides clarity."
+- Image Text: "MEDICAL DETOX CLARITY"
+- Headline: "Confidential Assessment"
+- Description: "No pressure."
+- CTA: "Get Started"
+
+3) "For Families Seeking Options"
+- Visual: Soft, neutral background with text card.
+- Primary Text: "For families seeking a calm, private path forward."
+- Image Text: "A CALM FIRST STEP"
+- Headline: "Take the Assessment"
+- Description: "Confidential."
+- CTA: "Learn More"
+
+4) "Dual Diagnosis Support"
+- Visual: Split design with "Mental Health + Recovery" text.
+- Primary Text: "Evidence based care that supports both mental health and recovery."
+- Image Text: "DUAL DIAGNOSIS SUPPORT"
+- Headline: "Explore Options"
+- Description: "Private assessment available."
+- CTA: "Learn More"
+
+5) "Private Admissions"
+- Visual: Minimalist navy background, lock icon, phone CTA.
+- Primary Text: "Admissions handled discreetly, with clear next steps."
+- Image Text: "PRIVATE ADMISSIONS"
+- Headline: "Call for a Confidential Intake"
+- Description: "We are here to help."
+- CTA: "Call Now"
+
+## General Service and Brand Ads (5)
+
+6) "Rize OC - Medical Detox"
+- Visual: Navy and white brand card, logo centered.
+- Primary Text: "Medically supervised detox with individualized care."
+- Image Text: "RIZE OC"
+- Headline: "Learn About Detox"
+- Description: "Orange County."
+- CTA: "Learn More"
+
+7) "Personalized Care Plans"
+- Visual: Structured grid layout with key icons.
+- Primary Text: "Treatment plans tailored to each person's needs."
+- Image Text: "PERSONALIZED CARE"
+- Headline: "Explore Programs"
+- Description: "Confidential."
+- CTA: "Learn More"
+
+8) "24/7 Medical Support"
+- Visual: Bold navy bar with "24/7" typography.
+- Primary Text: "Around the clock clinical support during detox."
+- Image Text: "24/7 MEDICAL SUPPORT"
+- Headline: "See How We Help"
+- Description: "Private admissions."
+- CTA: "Learn More"
+
+9) "After Detox: Next Steps"
+- Visual: Three step timeline graphic.
+- Primary Text: "Detox is step one. We help plan what comes next."
+- Image Text: "DETOX -> TREATMENT -> SUPPORT"
+- Headline: "See Treatment Options"
+- Description: "Confidential."
+- CTA: "Learn More"
+
+10) "Private Family Guidance"
+- Visual: Clean text only ad with navy background.
+- Primary Text: "Guidance for families exploring treatment options."
+- Image Text: "PRIVATE FAMILY GUIDANCE"
+- Headline: "Speak with Admissions"
+- Description: "No pressure."
+- CTA: "Contact Us"
+
+Format Specs:
+- 1080x1080, 1080x1920, 1200x628
+
+Targeting Guidance:
+- Allowed: broad wellness or health interests, age 25+, geo Orange County.
+- Prohibited: health condition targeting, recovery group membership, or inferred sensitive traits.
+
+Retargeting Matrix:
+- Quiz visitors (no lead): show Quiz Ads 1-3
+- Lead submitted, no call: show Ads 2, 5
+- Warm engagement: show Ads 6-9
+
+Pre launch Compliance Checklist:
+- No "you + condition" language
+- No implied diagnosis
+- No guarantees or cure language
+- Privacy and consent on landing page

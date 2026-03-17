@@ -1,1 +1,251 @@
-‣楒敺传⁃胢ₔ浅楡⁬畎瑲牵⁥敓畱湥散ੳ匊湥敤⁲敲潣浭湥慤楴湯›潊摲湡䰠Ⱞ䄠浤獩楳湯⁳潃牯楤慮潴ੲ桐湯⁥湩映潯整㩲⠠㐹⤹㐠ㄶ㈭㈶ਰ⌊‣佈⁔䕌䑁钀鲀牃獩獩琠⁯潃浭瑩敭瑮胢ઝ⌊⌣䔠慭汩ㄠ⠠浉敭楤瑡⥥匊扵敪瑣䄠›潙牵挠湯楦敤瑮慩⁬敤潴⁸獡敳獳敭瑮匊扵敪瑣䈠›⁁汣慥⁲敮瑸猠整Ɒ瀠楲慶整祬栠湡汤摥ਊ楈笠晻物瑳湟浡絥ⱽਊ桔湡獫映牯挠浯汰瑥湩⁧桴⁥潣普摩湥楴污愠獳獥浳湥⹴䈠獡摥漠⁮潹牵爠獥潰獮獥‬⁡牰癩瑡⁥慣汬眠汩⁬敨灬挠慬楲祦琠敨猠晡獥⁴敮瑸猠整⁰潦⁲敤潴⁸牯猠牴捵畴敲⁤牴慥浴湥⹴ਊ慃汬渠睯愠摮眠馀汬眠污⁫潹⁵桴潲杵⁨灯楴湯ⱳ琠浩湩Ⱨ愠摮眠慨⁴潴攠灸捥⹴ਊ牐浩牡⁹呃㩁䌠污⁬㤨㤴 㘴ⴱ㘲〲ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲䌊湯楦敤瑮慩⁬摡業獳潩獮‮湉楤楶畤污爠獥汵獴洠祡瘠牡⹹唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬′㐨栠畯獲氠瑡牥਩畓橢捥⁴㩁圠慨⁴慨灰湥⁳晡整⁲潹牵挠污੬畓橢捥⁴㩂䄠挠污Ɑ挠敬牡映物瑳猠整ੰ䠊⁩筻楦獲彴慮敭絽ਬ䤊⁦潹⁵慣汬琠摯祡‬敷胢沙㩬ㄊ 楌瑳湥琠⁯桷瑡胢玙栠灡数楮杮爠杩瑨渠睯㈊ 汃牡晩⁹敤潴⁸獶‮敲楳敤瑮慩⁬獶‮畯灴瑡敩瑮漠瑰潩獮㌊ 畏汴湩⁥楴業杮愠摮渠硥⁴瑳灥ੳ圊⁥敫灥攠敶祲桴湩⁧潣普摩湥楴污愠摮爠獥数瑣畦⹬ਊ牐浩牡⁹呃㩁䌠污⁬㤨㤴 㘴ⴱ㘲〲ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬″䐨祡㈠਩畓橢捥⁴㩁䌠獯⁴湡⁤湩畳慲据⁥汣牡瑩੹畓橢捥⁴㩂倠慲瑣捩污搠瑥楡獬‬硥汰楡敮⁤楳灭祬ਊ楈笠晻物瑳湟浡絥ⱽਊ敗胢沙⁬敶楲祦椠獮牵湡散眠敨敲瀠獯楳汢⁥湡⁤硥汰楡⁮牰癩瑡ⵥ慰⁹灯楴湯⁳汣慥汲⹹丠⁯牰獥畳敲‬番瑳挠慬楲祴ਮ倊楲慭祲䌠䅔›慃汬⠠㐹⤹㐠ㄶ㈭㈶ਰ钀䨠牯慤⁮⹌䄊浤獩楳湯⁳潃牯楤慮潴Ⱳ删穩⁥䍏⠊㐹⤹㐠ㄶ㈭㈶ਰ湕畳獢牣扩㩥嬠楬歮੝⌊⌣䔠慭汩㐠⠠慄⁹⤴匊扵敪瑣䄠›桗瑡搠瑥硯挠湡映敥⁬楬敫匊扵敪瑣䈠›⁁畧摩摥‬敭楤慣汬⁹畳数癲獩摥瀠潲散獳ਊ楈笠晻物瑳湟浡絥ⱽਊ敄潴⁸慣⁮敦汥椠瑮浩摩瑡湩Ⱨ戠瑵愠洠摥捩污祬猠灵牥楶敳⁤牰杯慲⁭獩搠獥杩敮⁤潴欠敥⁰潹⁵慳敦愠摮猠灵潰瑲摥‮⁁牢敩⁦慣汬挠湡挠慬楲祦眠慨⁴潴攠灸捥⹴ਊ牐浩牡⁹呃㩁䌠污⁬㤨㤴 㘴ⴱ㘲〲ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬‵䐨祡㜠਩畓橢捥⁴㩁圠馀敲栠牥⁥桷湥礠畯胢犙⁥敲摡੹畓橢捥⁴㩂夠畯⁲牰癩瑡⁥楬敮椠⁳污慷獹漠数੮䠊⁩筻楦獲彴慮敭絽ਬ䤊⁦潹馀敲渠瑯爠慥祤琠摯祡‬桴瑡胢玙漠慫⹹圠馀敲栠牥⁥桷湥礠畯愠敲ਮ倊楲慭祲䌠䅔›慃汬⠠㐹⤹㐠ㄶ㈭㈶ਰ钀䨠牯慤⁮⹌䄊浤獩楳湯⁳潃牯楤慮潴Ⱳ删穩⁥䍏⠊㐹⤹㐠ㄶ㈭㈶ਰ湕畳獢牣扩㩥嬠楬歮੝⌊‣䅗䵒䰠䅅⁄胢ₔ胢劜獥慥捲⁨潴删慥楤敮獳胢ઝ⌊⌣䔠慭汩ㄠ⠠浉敭楤瑡⥥匊扵敪瑣䄠›潙牵爠獥汵獴⬠渠硥⁴瑳灥ੳ畓橢捥⁴㩂夠畯⁲潣普摩湥楴污朠極敤椠⁳敨敲ਊ楈笠晻物瑳湟浡絥ⱽਊ效敲胢玙礠畯⁲潣普摩湥楴污朠極敤愠摮愠⁮癯牥楶睥漠⁦桷瑡礠畯⁲敲畳瑬⁳敭湡‮楒敺传⁃牰癯摩獥洠摥捩污祬猠灵牥楶敳⁤敤潴⁸湡⁤瑳畲瑣牵摥琠敲瑡敭瑮漠瑰潩獮琠楡潬敲⁤潴琠敨椠摮癩摩慵⹬ਊ牐浩牡⁹呃㩁匠档摥汵⁥⁡牐癩瑡⁥獁敳獳敭瑮䌠污੬敓潣摮牡⁹呃㩁䌠污⁬㤨㤴 㘴ⴱ㘲〲ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬′䐨祡㈠਩畓橢捥⁴㩁圠慨⁴慭敫⁳楒敺传⁃楤晦牥湥ੴ畓橢捥⁴㩂䄠琠潨杵瑨畦ⱬ洠摥捩污祬猠灵牥楶敳⁤灡牰慯档ਊ楈笠晻物瑳湟浡絥ⱽਊ畏⁲整浡映捯獵獥漠⁮慳敦祴‬楤捳敲楴湯‬湡⁤湩楤楶畤污穩摥挠牡钀潳礠畯挠湡洠癯⁥潦睲牡⁤楷桴挠慬楲祴ਮ倊楲慭祲䌠䅔›捓敨畤敬愠倠楲慶整䄠獳獥浳湥⁴慃汬ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬″䐨祡㐠਩畓橢捥⁴㩁䄠琠灹捩污攠灸牥敩据⁥瑡删穩⁥䍏匊扵敪瑣䈠›桗瑡琠⁯硥数瑣‬瑳灥戠⁹瑳灥ਊ楈笠晻物瑳湟浡絥ⱽਊ⁁祴楰慣⁬硥数楲湥散椠据畬敤⁳⁡潣普摩湥楴污椠瑮歡ⱥ洠摥捩污搠瑥硯⠠晩渠敥敤⥤‬湡⁤⁡瑳畲瑣牵摥瀠慬⁮潦⁲湯潧湩⁧慣敲‮敗胢沙⁬慴汩牯爠捥浯敭摮瑡潩獮琠⁯潹牵猠瑩慵楴湯ਮ倊楲慭祲䌠䅔›捓敨畤敬愠倠楲慶整䄠獳獥浳湥⁴慃汬ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬‴䐨祡㜠਩畓橢捥⁴㩁䤠癮獥浴湥⁴湡⁤湩畳慲据੥畓橢捥⁴㩂䌠敬牡椠普牯慭楴湯‬潮瀠敲獳牵੥䠊⁩筻楦獲彴慮敭絽ਬ圊馀汬瘠牥晩⁹湩畳慲据⁥湡⁤慷歬琠牨畯桧漠瑰潩獮‮潙馀汬栠癡⁥汣慥⁲湩潦浲瑡潩⁮潴洠歡⁥桴⁥楲桧⁴敤楣楳湯ਮ倊楲慭祲䌠䅔›捓敨畤敬愠倠楲慶整䄠獳獥浳湥⁴慃汬匊捥湯慤祲䌠䅔›慃汬⠠㐹⤹㐠ㄶ㈭㈶ਰ钀䨠牯慤⁮⹌䄊浤獩楳湯⁳潃牯楤慮潴Ⱳ删穩⁥䍏⠊㐹⤹㐠ㄶ㈭㈶ਰ湕畳獢牣扩㩥嬠楬歮੝⌊⌣䔠慭汩㔠⠠慄⁹〱਩畓橢捥⁴㩁吠潷猠浩汰⁥敮瑸猠整獰匊扵敪瑣䈠›慃汬漠⁲敲汰钀潹牵挠潨捩੥䠊⁩筻楦獲彴慮敭絽ਬ䤊⁦潹馀敲爠慥祤‬潹⁵慣⁮楥桴牥挠污⁬㤨㤴 㘴ⴱ㘲〲漠⁲敲汰⁹楷桴愠琠浩⁥桴瑡眠牯獫映牯愠瀠楲慶整挠污⹬ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣䌠䱏⁄䕌䑁钀鲀摅捵瑡潩⁮潴䔠杮条浥湥鶀ਊ⌣‣浅楡⁬‱䤨浭摥慩整਩畓橢捥⁴㩁夠畯⁲潣普摩湥楴污朠極敤匊扵敪瑣䈠›⁁慣浬映物瑳猠整ੰ䠊⁩筻楦獲彴慮敭絽ਬ䠊牥馀⁳潹牵挠湯楦敤瑮慩⁬畧摩⹥䤠⁴畯汴湩獥搠瑥硯愠摮琠敲瑡敭瑮漠瑰潩獮椠⁮⁡汣慥Ⱳ猠浩汰⁥慷⹹ਊ牐浩牡⁹呃㩁䐠睯汮慯⁤桴⁥畇摩੥敓潣摮牡⁹呃㩁䌠污⁬㤨㤴 㘴ⴱ㘲〲ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬′䐨祡㌠਩畓橢捥⁴㩁䠠睯琠⁯癥污慵整搠瑥硯瀠潲牧浡ੳ畓橢捥⁴㩂儠敵瑳潩獮琠⁯獡⁫敢潦敲礠畯搠捥摩੥䠊⁩筻楦獲彴慮敭絽ਬ䌊湯楳敤㩲ⴊ䤠⁳敤潴⁸敭楤慣汬⁹畳数癲獩摥㈠⼴㼷ⴊ䠠睯椠⁳敭瑮污栠慥瑬⁨畳灰牯整㽤ⴊ圠慨⁴慨灰湥⁳晡整⁲敤潴⁸湥獤ਿ圊⁥慣⁮慷歬琠牨畯桧琠敨敳瀠楲慶整祬ਮ倊楲慭祲䌠䅔›慃汬⠠㐹⤹㐠ㄶ㈭㈶ਰ钀䨠牯慤⁮⹌䄊浤獩楳湯⁳潃牯楤慮潴Ⱳ删穩⁥䍏⠊㐹⤹㐠ㄶ㈭㈶ਰ湕畳獢牣扩㩥嬠楬歮੝⌊⌣䔠慭汩㌠⠠慄⁹⤶匊扵敪瑣䄠›敌敶獬漠⁦慣敲‬汣慥汲⁹硥汰楡敮੤畓橢捥⁴㩂䐠瑥硯瘠⹳椠灮瑡敩瑮瘠⹳漠瑵慰楴湥ੴ䠊⁩筻楦獲彴慮敭絽ਬ䐊瑥硯猠慴楢楬敺⁳桴⁥潢祤‮敒楳敤瑮慩⁬牴慥浴湥⁴畳灰牯獴搠敥数⁲敲潣敶祲‮畏灴瑡敩瑮挠牡⁥牰癯摩獥猠牴捵畴敲眠楨敬洠楡瑮楡楮杮映敬楸楢楬祴‮敗挠湡栠汥⁰潹⁵敤楣敤眠慨馀⁳慳敦瑳ਮ倊楲慭祲䌠䅔›慃汬⠠㐹⤹㐠ㄶ㈭㈶ਰ钀䨠牯慤⁮⹌䄊浤獩楳湯⁳潃牯楤慮潴Ⱳ删穩⁥䍏⠊㐹⤹㐠ㄶ㈭㈶ਰ湕畳獢牣扩㩥嬠楬歮੝⌊⌣䔠慭汩㐠⠠慄⁹〱਩畓橢捥⁴㩁䠠汥楰杮猠浯潥敮礠畯氠癯੥畓橢捥⁴㩂䄠瀠楲慶整‬畳灰牯楴敶挠湯敶獲瑡潩੮䠊⁩筻楦獲彴慮敭絽ਬ䤊⁦潹馀敲猠敥楫杮栠汥⁰潦⁲⁡潬敶⁤湯ⱥ眠馀敲栠牥⁥潴栠汥⁰潹⁵湵敤獲慴摮漠瑰潩獮愠摮琠浩湩⹧ਊ牐浩牡⁹呃㩁䌠污⁬㤨㤴 㘴ⴱ㘲〲ਊ胢ₔ潊摲湡䰠ਮ摁業獳潩獮䌠潯摲湩瑡牯‬楒敺传੃㤨㤴 㘴ⴱ㘲〲唊獮扵捳楲敢›汛湩嵫ਊ⌣‣浅楡⁬‵䐨祡ㄠ⤴匊扵敪瑣䄠›桔獩氠湩⁥獩漠数⁮桷湥礠畯渠敥⁤瑩匊扵敪瑣䈠›牐癩瑡⁥畳灰牯ⱴ愠祮楴敭ਊ楈笠晻物瑳湟浡絥ⱽਊ桗湥礠畯胢犙⁥敲摡ⱹ挠污⁬㤨㤴 㘴ⴱ㘲〲映牯愠挠湯楦敤瑮慩⁬潣癮牥慳楴湯ਮ钀䨠牯慤⁮⹌䄊浤獩楳湯⁳潃牯楤慮潴Ⱳ删穩⁥䍏⠊㐹⤹㐠ㄶ㈭㈶ਰ湕畳獢牣扩㩥嬠楬歮੝䌊潲獳琭敩⁲獥慣慬楴湯਺‭潈⁴敬摡⁳桷⁯潤馀⁴潣癮牥⁴湩㜠搠祡⁳潲汬椠瑮⁯慗浲愠⁴浅楡⁬⸲ⴊ圠牡⁭敬摡⁳桷⁯潤馀⁴湥慧敧椠⁮㐱搠祡⁳潲汬椠瑮⁯潃摬愠⁴浅楡⁬⸳਍
+﻿# Rize OC - Email Nurture Sequences
+
+Sender recommendation: Jordan L., Admissions Coordinator
+Phone in footer: (949) 461-2620
+
+## HOT LEAD - "Crisis to Commitment"
+
+### Email 1 (Immediate)
+Subject A: Your confidential detox assessment
+Subject B: A clear next step, privately handled
+
+Hi {{first_name}},
+
+Thanks for completing the confidential assessment. Based on your responses, a private call will help clarify the safest next step for detox or structured treatment.
+
+Call now and we will walk you through options, timing, and what to expect.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Confidential admissions. Individual results may vary.
+Unsubscribe: [link]
+
+### Email 2 (4 hours later)
+Subject A: What happens after your call
+Subject B: A calm, clear first step
+
+Hi {{first_name}},
+
+If you call today, we will:
+1) Listen to what is happening right now
+2) Clarify detox vs residential vs outpatient options
+3) Outline timing and next steps
+
+We keep everything confidential and respectful.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 3 (Day 2)
+Subject A: Cost and insurance clarity
+Subject B: Practical details, explained simply
+
+Hi {{first_name}},
+
+We will verify insurance where possible and explain private pay options clearly. No pressure, just clarity.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 4 (Day 4)
+Subject A: What detox can feel like
+Subject B: A guided, medically supervised process
+
+Hi {{first_name}},
+
+Detox can feel intimidating, but a medically supervised program is designed to keep you safe and supported. A brief call can clarify what to expect.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 5 (Day 7)
+Subject A: We are here when you are ready
+Subject B: Your private line is always open
+
+Hi {{first_name}},
+
+If you are not ready today, that is okay. We are here when you are.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+## WARM LEAD - "Research to Readiness"
+
+### Email 1 (Immediate)
+Subject A: Your results and next steps
+Subject B: Your confidential guide is here
+
+Hi {{first_name}},
+
+Here is your confidential guide and an overview of what your results mean. Rize OC provides medically supervised detox and structured treatment options tailored to the individual.
+
+Primary CTA: Schedule a Private Assessment Call
+Secondary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 2 (Day 2)
+Subject A: What makes Rize OC different
+Subject B: A thoughtful, medically supervised approach
+
+Hi {{first_name}},
+
+Our team focuses on safety, discretion, and individualized care so you can move forward with clarity.
+
+Primary CTA: Schedule a Private Assessment Call
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 3 (Day 4)
+Subject A: A typical experience at Rize OC
+Subject B: What to expect, step by step
+
+Hi {{first_name}},
+
+A typical experience includes a confidential intake, medical detox (if needed), and a structured plan for ongoing care. We will tailor recommendations to your situation.
+
+Primary CTA: Schedule a Private Assessment Call
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 4 (Day 7)
+Subject A: Investment and insurance
+Subject B: Clear information, no pressure
+
+Hi {{first_name}},
+
+We will verify insurance and walk through options. You will have clear information to make the right decision.
+
+Primary CTA: Schedule a Private Assessment Call
+Secondary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 5 (Day 10)
+Subject A: Two simple next steps
+Subject B: Call or reply, your choice
+
+Hi {{first_name}},
+
+If you are ready, you can either call (949) 461-2620 or reply with a time that works for a private call.
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+## COLD LEAD - "Education to Engagement"
+
+### Email 1 (Immediate)
+Subject A: Your confidential guide
+Subject B: A calm first step
+
+Hi {{first_name}},
+
+Here is your confidential guide. It outlines detox and treatment options in a clear, simple way.
+
+Primary CTA: Download the Guide
+Secondary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 2 (Day 3)
+Subject A: How to evaluate detox programs
+Subject B: Questions to ask before you decide
+
+Hi {{first_name}},
+
+Consider:
+- Is detox medically supervised 24/7?
+- How is mental health supported?
+- What happens after detox ends?
+
+We can walk through these privately.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 3 (Day 6)
+Subject A: Levels of care, clearly explained
+Subject B: Detox vs inpatient vs outpatient
+
+Hi {{first_name}},
+
+Detox stabilizes the body. Residential treatment supports deeper recovery. Outpatient care provides structure while maintaining flexibility. We can help you decide what is safest.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 4 (Day 10)
+Subject A: Helping someone you love
+Subject B: A private, supportive conversation
+
+Hi {{first_name}},
+
+If you are seeking help for a loved one, we are here to help you understand options and timing.
+
+Primary CTA: Call (949) 461-2620
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+### Email 5 (Day 14)
+Subject A: This line is open when you need it
+Subject B: Private support, anytime
+
+Hi {{first_name}},
+
+When you are ready, call (949) 461-2620 for a confidential conversation.
+
+- Jordan L.
+Admissions Coordinator, Rize OC
+(949) 461-2620
+Unsubscribe: [link]
+
+Cross tier escalation:
+- Hot leads who do not convert in 7 days roll into Warm at Email 2.
+- Warm leads who do not engage in 14 days roll into Cold at Email 3.
